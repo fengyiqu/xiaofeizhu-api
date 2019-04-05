@@ -1,0 +1,4 @@
+SET NAMES UTF8;
+DROP DATABASE IF EXISTS xiaofeizhu;
+CREATE DATABASE xiaofeizhu CHARSET=UTF8;
+USE xiaofeizhu;
